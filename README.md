@@ -6,5 +6,5 @@ harjoitus
 
 
 
-jippii
+Hello joona :D
 
