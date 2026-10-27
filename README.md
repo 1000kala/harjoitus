@@ -1,2 +1,10 @@
 # harjoitus
+
 harjoitus
+
+
+
+
+
+jippii
+
